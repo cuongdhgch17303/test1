@@ -6,6 +6,6 @@
 <?php
 echo "Hello World!";
 ?>
-<a href="profile.php">hhhh</a>
+<a href="profile.php">Click to view Profile</a>
 </body>
 </html>
