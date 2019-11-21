@@ -1,13 +1,11 @@
-<!DOCTYPE html>
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1> My first PHP page</h1>
 
 <?php
-echo "Hello 1234567890";
+echo "Hello World!";
 ?>
-<a href="http://www.hyperlinkcode.com/">Hyperlink Code</a>
-
+<a href="profile.php">hhhh</a>
 </body>
 </html>
